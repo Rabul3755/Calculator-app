@@ -1,2 +1,2 @@
 # Calculator-app
-This calculator provides simple  mathematical functions in a beautifully designed app.
+This calculator app provides simple  mathematical functions in a beautifully designed app.
